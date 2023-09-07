@@ -31,7 +31,7 @@ WeatherPedia is hosted online, allowing easy access at [WeatherPedia](http://wea
 ![Screenshot 2](https://github.com/winzepz/WeatherPedia/assets/75492476/84291008-c3e1-4608-964a-c2f422993729)
 
 ## License
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
+WeatherPedia is open-source and released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code in accordance with the terms of the MIT License.
 
 ## Acknowledgments
 - OpenWeatherMap for providing the weather data.
