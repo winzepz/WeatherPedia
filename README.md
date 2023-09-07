@@ -1,6 +1,6 @@
 # WeatherPedia
 
-![WeatherPedia App Screenshot](![image](https://github.com/winzepz/WeatherPedia/assets/75492476/85b5ed26-e9bd-4cf5-a898-9d75bbe93477)
+![WeatherPedia App Screenshot]((https://github.com/winzepz/WeatherPedia/assets/75492476/85b5ed26-e9bd-4cf5-a898-9d75bbe93477)
 )
 
 ## About
@@ -28,9 +28,9 @@ WeatherPedia is a simple web application that provides real-time weather data fo
 WeatherPedia is hosted online, allowing easy access at [WeatherPedia](http://weatherpedia.rf.gd). 
 
 ## Screenshots
-![Screenshot 1](![image](https://github.com/winzepz/WeatherPedia/assets/75492476/cc6cbdbb-e98e-4e94-b048-7937fbb6e0ea)
+![Screenshot 1]((https://github.com/winzepz/WeatherPedia/assets/75492476/cc6cbdbb-e98e-4e94-b048-7937fbb6e0ea)
 )
-![Screenshot 2](![image](https://github.com/winzepz/WeatherPedia/assets/75492476/84291008-c3e1-4608-964a-c2f422993729)
+![Screenshot 2]((https://github.com/winzepz/WeatherPedia/assets/75492476/84291008-c3e1-4608-964a-c2f422993729)
 )
 
 ## License
